@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chenxiaofie/complete/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人简历 <b style="font-size: 0.8em;font-weight: 200;"> - 前端工程师</b>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b style="font-size: 1.4em;">陈佳俊</b>♂，1999-08 
 
-### Markdown
+手机号：15070826420
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+邮箱：feifeichen1999@gmail.com
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### 一、自我介绍
 
-- Bulleted
-- List
+本人性格外向随和，诚实守信，沟通能力出色。
 
-1. Numbered
-2. List
+曾在参与的项目中与客户进行沟通，清楚了解需求，持续跟进问题，积极解决问题，与团队成员一起并肩，顺利完成项目。
 
-**Bold** and _Italic_ and `Code` text
+爱好和特长：网络安全 、游戏、吉他、软硬件技术、文档读写能力等。
 
-[Link](url) and ![Image](src)
-```
+在未来发展中，希望拓展视野，提升个人技术能力、团队协作能力、主动发现和解决问题能力，精准把控项目进度，培养风险管理意识，执着与灵活并用，高效高质完成工作。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[![陈佳俊](https://img.shields.io/badge/GitHub-10k+-yellow.svg?style=social&logo=github)](https://github.com/chenxiaofie)
+### 二、技术能力
 
-### Jekyll Themes
+1. 工作能力
+    * 熟练使用 `VUE` 全家桶开发
+    * 熟练使用 `uniapp` 跨端开发
+    * 拥抱开源、了解敏捷开发机制
+    * 熟悉前后端分离开发
+    * 熟悉技术调研方法
+    * 熟悉大厂的工作流程
+        1. 需求收集 -> 需求池
+        1. 需求初评
+        1. 需求终评
+        3. 交互设计
+        4. UI设计
+        5. 设计评审
+        6. 排期（设计研发组、测试组）
+        7. 开发、用例评审（各端研发分离开发、联调、自测，此阶段应持续进行风险评估，并尽早暴露风险，以做出及时调整）
+        8. 测试&修复bug
+        9. 产品验收（预发布环境）
+        10. 发布&线上回归
+2. 技术技能
+    * 了解常用的业务场景的技术方案，如多Tab结构、图片上传、表单提交、轮播卡片、列表滚动加载和下拉刷新、直播流展示、实时聊天、弹幕、评论展示和发布，自适应布局等。
+    * 熟练使用 Vue 全家桶，包括组件化开发、数据绑定、动态路由机制、服务端渲染、打包构建、vue-devtools等，了解虚拟DOM概念。
+    * 了解前端生态，熟悉H5、小程序、离线网页等相关技术开发。
+    * 熟悉Element UI、Antui等UI框架和Animate.css,Echarts等ui库，能够参阅第三方SDK并使用。
+    * 熟练使用Koa框架进行中间层服务开发，了解后端的业务场景技术解决方案，如接口验权，轮询服务，定时任务
+    * 了解前端性能优化和代码风格管理工具，有贯穿于开发过程的优化意识。
+3. 工具使用
+    * 熟练使用蓝湖、Cutterman工具来辅助切图，熟练psd格式设计稿自行切图标注。
+    * 熟练使用VS Code编辑器。
+    * 了解Git版本管理、分支、tag等概念和git图形工具操作。
+    * 能够用Chrome开发者工具调试开发。
+    * 了解Markdown文档书写。
+    * 了解常用linux命令。
+4. 语言和原理
+    * 熟练掌握HTML5、CSS3、JS语言，了解ES6等新特性，持续关注其发展。
+    * 遵循HTML语义化进行开发，了解常用meta标签。
+    * 能够使用LESS等CSS辅助开发方式，了解BEM、BFC。
+    * 了解常用的BOM对象和DOM操作。
+    * 了解HTTP、HTTPs、WebSocket协议，了解浏览器同源策略。
+    * 了解CDN资源管理、Nginx反向代理。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenxiaofie/complete/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!-- ### 三、教育背景
+时间|学校|学历|专业
+-|-|-|-
+2021.03-2023.09|南开大学|大专|计算机应用| -->
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 三、工作经历
+1. 2020.03~2021.01 南昌兔捷科技有限公司:h5、app和小程序公众号及后台系统的开发，参与项目需求讨论及沟通设计意见
+2. 2021.03~至今 杭州涵高网络科技有限公司:网易游戏网站部h5需求开发
+### 结束
