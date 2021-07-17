@@ -19,7 +19,7 @@
 
 在未来发展中，希望拓展视野，提升个人技术能力、团队协作能力、主动发现和解决问题能力，精准把控项目进度，培养风险管理意识，执着与灵活并用，高效高质完成工作。
 
-[![陈佳俊](https://img.shields.io/badge/GitHub-10k+-yellow.svg?style=social&logo=github)](https://github.com/chenxiaofie)
+[![陈佳俊](https://img.shields.io/badge/GitHub-yellow.svg?style=social&logo=github)](https://github.com/chenxiaofie)
 ### 二、技术能力
 
 1. 工作能力
